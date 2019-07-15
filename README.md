@@ -11,7 +11,7 @@ Location to store Raspberry Jam worksheets.
 
 **Shakey_Shakey_3.pdf** - Use tilt sensors as an example of an input to make a game
 
-**Traffic-Lights-Worksheet.pdf* - Python traffic lights using GPIOzero and pi-stop
+**Traffic-Lights-Worksheet.pdf** - Python traffic lights using GPIOzero and pi-stop
 
 **Turtle_Race_Python_2.pdf** - Python and Turtle graphics turle race
 
