@@ -18,3 +18,5 @@ Location to store Raspberry Jam worksheets.
 **Getting started with picamera _ Raspberry Pi Projects.pdf** - Using the picamera with python  Take from Raspberry Pi Projects and converted for offline usage
 
 **Getting Started with Minecraft Pi.pdf** - Introduction to using Python with Minecraft Pi edition
+
+**Tell_a_story_with_animations.pdf** - graft - custom graphics tool. See: https://github.com/andybalaam/graft
