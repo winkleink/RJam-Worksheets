@@ -14,3 +14,5 @@ Location to store Raspberry Jam worksheets.
 **Traffic-Lights-Worksheet.pdf* - Python traffic lights using GPIOzero and pi-stop
 
 **Turtle_Race_Python_2.pdf** - Python and Turtle graphics turle race
+
+**Getting started with picamera _ Raspberry Pi Projects.pdf** - Using the picamera with python  Take from Raspberry Pi Projects and converted for offline usage
