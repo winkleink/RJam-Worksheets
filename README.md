@@ -20,3 +20,7 @@ Location to store Raspberry Jam worksheets.
 **Getting Started with Minecraft Pi.pdf** - Introduction to using Python with Minecraft Pi edition
 
 **Tell_a_story_with_animations.pdf** - graft - custom graphics tool. See: https://github.com/andybalaam/graft
+
+**8LED_8X7Seg_8Buttons_button_leds.pdf** - Read the buttons and light the LEDs on the TM1638 based LED&KEY board
+
+**8LED_8X7Seg_8Buttons_largest_game.pdf** Game to pick the largest number on a 8 x 7segment display using the TM1638 based LED&KEY board
